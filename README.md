@@ -16,3 +16,6 @@
 
 ## Font
 . google fonts(M PLUS Rounded)
+
+## Hosted URL
+- https://gallerie-photosearch.netlify.app
