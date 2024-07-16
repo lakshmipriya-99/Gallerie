@@ -12,10 +12,10 @@
 
 ## Color Palette
 
-.coolors
+- https://coolors.co/
 
 ## Font
-. google fonts(M PLUS Rounded)
+- https://fonts.google.com/
 
 ## Hosted URL
 - https://gallerie-photosearch.netlify.app
